@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "type": 1,
+    "front": "What is the difference between var, let, and const in JavaScript?",
+    "back": "var has function scope and is hoisted. let and const have block scope. const variables cannot be reassigned, but let can.",
+    "known": false
+  },
+  {
+    "id": 2,
+    "type": 1,
+    "front": "What is the Virtual DOM?",
+    "back": "The Virtual DOM is an in-memory representation of the real DOM that React uses to optimize updates and rendering.",
+    "known": false
+  },
+  {
+    "id": 3,
+    "type": 1,
+    "front": "What are React hooks?",
+    "back": "React hooks are functions like useState and useEffect that let you use state and lifecycle methods in functional components.",
+    "known": false
+  },
+  {
+    "id": 4,
+    "type": 1,
+    "front": "What is the difference between React and Vue.js?",
+    "back": "React is a library focusing on UI components, while Vue.js is a framework with more built-in tools and a simpler learning curve.",
+    "known": false
+  },
+  {
+    "id": 5,
+    "type": 1,
+    "front": "What is Next.js, and why is it used?",
+    "back": "Next.js is a React framework that provides features like server-side rendering, static site generation, and API routes for performance and SEO optimization.",
+    "known": false
+  },
+  {
+    "id": 6,
+    "type": 1,
+    "front": "What are lifecycle hooks in Vue.js?",
+    "back": "Lifecycle hooks are methods in Vue.js like mounted, created, updated, and destroyed that let you execute code at specific points in a component's lifecycle.",
+    "known": false
+  },
+  {
+    "id": 7,
+    "type": 1,
+    "front": "What is the difference between props and state in React?",
+    "back": "Props are immutable data passed from parent to child, while state is mutable data managed within the component.",
+    "known": false
+  },
+  {
+    "id": 8,
+    "type": 1,
+    "front": "What are Higher-Order Components (HOCs) in React?",
+    "back": "HOCs are functions that take a component and return a new component, allowing you to reuse component logic.",
+    "known": false
+  },
+  {
+    "id": 9,
+    "type": 1,
+    "front": "What is Tailwind CSS?",
+    "back": "Tailwind CSS is a utility-first CSS framework that allows you to style elements directly in your markup using predefined classes.",
+    "known": false
+  },
+  {
+    "id": 10,
+    "type": 1,
+    "front": "What is the purpose of Webpack in a frontend project?",
+    "back": "Webpack is a module bundler that processes and bundles JavaScript, CSS, and other assets for deployment.",
+    "known": false
+  },
+  {
+    "id": 11,
+    "type": 1,
+    "front": "What is lazy loading in React?",
+    "back": "Lazy loading is a technique to load components or resources only when needed, improving initial load time.",
+    "known": false
+  },
+  {
+    "id": 12,
+    "type": 1,
+    "front": "What is the use of Vuex in Vue.js?",
+    "back": "Vuex is a state management library for Vue.js that centralizes the application's state for better management and debugging.",
+    "known": false
+  },
+  {
+    "id": 13,
+    "type": 1,
+    "front": "What is the Shadow DOM?",
+    "back": "The Shadow DOM is a web standard that encapsulates styles and markup within a web component, ensuring isolation from the global DOM.",
+    "known": false
+  },
+  {
+    "id": 14,
+    "type": 1,
+    "front": "What are some differences between SSR and CSR?",
+    "back": "SSR (Server-Side Rendering) renders HTML on the server, while CSR (Client-Side Rendering) renders content on the client using JavaScript.",
+    "known": false
+  },
+  {
+    "id": 15,
+    "type": 1,
+    "front": "What is a Single Page Application (SPA)?",
+    "back": "An SPA is a web application that loads a single HTML page and dynamically updates content as users interact with the app.",
+    "known": false
+  },
+  {
+    "id": 16,
+    "type": 1,
+    "front": "What is the purpose of useEffect in React?",
+    "back": "useEffect is a React hook used to handle side effects like data fetching, subscriptions, or manually changing the DOM.",
+    "known": false
+  },
+  {
+    "id": 17,
+    "type": 1,
+    "front": "How does CSS specificity work?",
+    "back": "CSS specificity determines which styles are applied by giving priority to inline styles, IDs, classes, and element selectors in that order.",
+    "known": false
+  },
+  {
+    "id": 18,
+    "type": 1,
+    "front": "What is a REST API?",
+    "back": "A REST API is an architectural style for designing networked applications using HTTP methods like GET, POST, PUT, and DELETE.",
+    "known": false
+  },
+  {
+    "id": 19,
+    "type": 1,
+    "front": "What are some common accessibility features to implement in a web app?",
+    "back": "Common features include semantic HTML, ARIA roles, keyboard navigation, and proper contrast ratios.",
+    "known": false
+  },
+  {
+    "id": 20,
+    "type": 1,
+    "front": "What is debouncing in JavaScript?",
+    "back": "Debouncing is a technique to delay the execution of a function until after a specified time has passed since the last call.",
+    "known": false
+  }
+]
